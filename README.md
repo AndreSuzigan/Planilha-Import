@@ -1,2 +1,0 @@
-# Planilha-Import
-simulador
